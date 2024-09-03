@@ -2,7 +2,5 @@ hi I am learning GIT
 This is my first program
 
 
-i Learnt today
-git init
-git add
-git commit
+ok u can proceed and update the same
+
